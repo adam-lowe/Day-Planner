@@ -1,0 +1,14 @@
+header {
+    padding: 5%;
+    padding-bottom: 10%;
+}
+
+.third {
+    background-color: aqua;
+    transition: all 0.2s;
+}
+
+.third:hover {
+    background-color: teal;
+    transition: scale(1.1);
+}
