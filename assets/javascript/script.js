@@ -1,0 +1,10 @@
+var nine = $("#nine")
+var ten = $("#ten")
+var eleven = $("#eleven")
+var twelve = $("#twelve")
+var one = $("#one")
+var two = $("#two")
+var three = $("three")
+var four = $("#four")
+var five = $("#five")
+
