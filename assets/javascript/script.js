@@ -1,10 +1,5 @@
-var nine = $("#nine")
-var ten = $("#ten")
-var eleven = $("#eleven")
-var twelve = $("#twelve")
-var one = $("#one")
-var two = $("#two")
-var three = $("three")
-var four = $("#four")
-var five = $("#five")
-
+$(".third").click(function () {
+ var block = $(this).parent('tr').prop('id')
+ var textInput = $(this).parent('tr').children('.second').html();
+ localStorage.setItem(block, textInput);
+});
