@@ -1,3 +1,5 @@
+$("#timeHere").html(moment().format('dddd, MMMM Do'))
+
 $("tr").each(function() {
     var block = localStorage.getItem(this.id)
     $(this).children('.second').html(block);
