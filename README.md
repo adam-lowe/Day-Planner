@@ -1,6 +1,6 @@
-# Homework 5 - Day Planner
+# Day Planner
 
-This repo is for the UNCC coding bootcamp's Fifth homework assignment
+This repo is for the UNCC coding bootcamp
 
 ## Instructions
 
