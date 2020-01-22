@@ -16,4 +16,4 @@ Webpage will be color coded depending on whether the represented hour is in the 
 
 [Github Repo](https://github.com/adam-lowe/HW5-Day-Planner)
 
-[Completed Work](https://adam-lowe.github.io/HW5-Day-Planner/)
+[Completed Work](https://adam-lowe.github.io/Day-Planner/)
